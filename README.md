@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning **javaScript Advanced, react on start2impact**
 
-- 👨‍💻 All of my projects are available at [https://davij99.github.io/Davide-Cugliari-HTML-CSS/](https://davij99.github.io/Davide-Cugliari-HTML-CSS/)
+- 👨‍💻 All of my projects are available at [https://davidecugliari.dev/it](https://davidecugliari.dev/it)
 
-- 💬 Ask me about **html, css, javascript-basic, sass, bootstrap**
+- 💬 Ask me about **html, css, javascript, Angular**
 
 - 📫 How to reach me **cugliari770@gmail.com**
 
-- 📄 Know about my experiences [https://davij99.github.io/Davide-Cugliari-HTML-CSS/](https://davij99.github.io/Davide-Cugliari-HTML-CSS/)
+- 📄 Know about my experiences [https://davidecugliari.dev/it](https://davidecugliari.dev/it)
 
 - ⚡ Fun fact **I think i'm a funny person, teamworker and problem solver**
 
